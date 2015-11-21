@@ -2,3 +2,5 @@ Hello students! I hope you can see what is in here!
 
 Are you enjoying your Introduction to Ruby course? Let me know if
 I can make it better in any way!
+
+This is an example of a change.
